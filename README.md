@@ -14,6 +14,34 @@ ulr()
 * HTML 
 * CSS  
 
+## Sites usadas no projeto
+
+Google Fontes:
+https://fonts.google.com/
+⭐ Biblioteca JavaScript 
+https://cdnjs.cloudflare.com/ajax/lib...
+
+Fontes de ícones
+🔎https://fontawesome.com/v5.15/icons?d... 
+🔎https://fontawesome.com/
+
+### Tabelas de cores:
+
+🔎https://www.flextool.com.br/tabela_co...
+
+### Imagem para baixar:
+
+🔎https://pixabay.com/pt/
+
+### Site para criar Thumbnails:
+
+🔎https://www.canva.com/
+
+## Ambiente de Desenvolvimento:
+
+codepen.io
+https://codepen.io/qpjfptxi-the-encoder/pen/abQbMJr
+
 ## O que Aprendi:
 
 Essa parte do css para mim foi a mais complexa, mais deu para praticar e tirar um bom aprendizado
