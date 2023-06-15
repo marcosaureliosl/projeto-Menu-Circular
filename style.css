@@ -76,7 +76,7 @@
     background-color: #131313;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    -webkit-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.65s ease-in-out;
   }
   .menu-btn {
     z-index: 2;
@@ -87,42 +87,42 @@
   }
   .menucircular:checked ~ .menu-a:nth-child(3){
     -webkit-transition-duration: .3s;
-    transition-duration: .3s;
+    transition-duration: .2s;
     -webkit-transform: translate3d(0.1px, -100px, 0);
     transform: translate3d(0.1px, -100px, 0);
   }
   .menucircular:checked ~ .menu-a:nth-child(4){
-    -webkit-transition-duration: .35s;
-    transition-duration: .35s;
+    -webkit-transition-duration: .5s;
+    transition-duration: .25s;
     -webkit-transform: translate3d(90px, -50px, 0);
     transform: translate3d(90px, -50px, 0);
   }
   .menucircular:checked ~ .menu-a:nth-child(5){
-    -webkit-transition-duration: .4s;
-    transition-duration: .4s;
+    -webkit-transition-duration: .5s;
+    transition-duration: .25s;
     -webkit-transform: translate3d(90px, 50px, 0);
     transform: translate3d(90px, 50px, 0);
   }
   .menucircular:checked ~ .menu-a:nth-child(6){
-    -webkit-transition-duration: .45s;
-    transition-duration: .45s;
+    -webkit-transition-duration: .5s;
+    transition-duration: .25s;
     -webkit-transform: translate3d(0.1px, 100px, 0);
     transform: translate3d(0.1px, 100px, 0);
   }
   .menucircular:checked ~ .menu-a:nth-child(7){
     -webkit-transition-duration: .5s;
-    transition-duration: .5s;
+    transition-duration: .25s;
     -webkit-transform: translate3d(-90px, 50px, 0);
     transform: translate3d(-90px, 50px, 0);
   }
   .menucircular:checked ~ .menu-a:nth-child(8){
-    -webkit-transition-duration: .45s;
-    transition-duration: .45s;
+    -webkit-transition-duration: .5s;
+    transition-duration: .25s;
     -webkit-transform: translate3d(-90px, -50px, 0);
     transform: translate3d(-90px, -50px, 0);
   }
   .menucircular:checked + .menu-btn {
-    -webkit-transform: all .5s linear;
+    -webkit-transform: all .2s linear;
     transition: all .5s linear;
     -webkit-transform: scale(0.9, 0.9)translate3d(0, 0, 0);
     transform: scale(0.9, 0.9)translate3d(0, 0, 0);
